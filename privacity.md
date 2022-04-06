@@ -1,4 +1,3 @@
-# Política de Privacidad para aplicaciones
 
 La información que tienen la obligación de incluir las apps en su políticade privacidad debe ser lo más clara y completa posible. Un ejemplo depolítica de privacidad utilizada en aplicaciones debería incluir los siguientes apartados:
 
