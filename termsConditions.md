@@ -1,4 +1,4 @@
-// **TÉRMINOS Y CONDICIONES DE USO APP** 
+<!--- **TÉRMINOS Y CONDICIONES DE USO APP**  -->
 
 1. Estos Términos y Condiciones de Uso regulan las reglas a que se sujeta la utilización de la APP Burger House (en adelante, la APP), que puede descargarse desde el dominio [https://burgerhouseuy.com/](https://burgerhouseuy.com/)
 
